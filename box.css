@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.box {
+    color: #ffffff;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+
+
+}
+
+.boxes-container {
+    display: flex;
+
+}
+
+.box1 {
+    background-color: #3f5ceb;
+    width: 725px;
+    height: 725px;
+
+}
+
+.box2 {
+    background-color: #f7c839;
+    width: 362px;
+    height: 362px;
+
+}
+
+.box3 {
+    background-color: #ed5c72;
+    width: 362px;
+    height: 362px;
+
+}
+
+.box4 {
+    background-color: #34d104;
+    width: 725px;
+    height: 362px;
+
+}
+
+.box5 {
+    background-color: #3f5ceb;
+
+    height: 200px;
+
+}
+
+.box6 {
+    background-color: #ed5c72;
+
+    height: 200px;
+
+}
+
+.box7 {
+    background-color: #f7c839;
+
+    height: 200px;
+
+}
+
+.box8 {
+    background-color: #34d104;
+
+    height: 200px;
+
+}
